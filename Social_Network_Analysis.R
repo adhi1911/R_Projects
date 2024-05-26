@@ -1,4 +1,6 @@
 #Social Network Analysis
+#Tutorial link : https://www.youtube.com/watch?v=0xsM0MbRPGE&t=503s
+
 
 if (!require("igraph")) install.packages("igraph")
 library(igraph)
